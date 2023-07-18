@@ -22,7 +22,7 @@ int main()
         l++;
     }
     h=l-1;
-    for(int i=0;i<(l-1)/2;i++)
+    for(int i=0;i<(l-1)/2;i++) 
     {
         c=str[i];
         str[i]=str[h];
